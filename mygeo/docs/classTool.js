@@ -1,0 +1,27 @@
+var classTool =
+[
+    [ "Tool", "classTool.html#aab0bae7aedfe8a5b847a72d729729637", null ],
+    [ "CheckHighlight", "classTool.html#a81b884029166d6feb0aa73dff0a96d55", null ],
+    [ "CreatePointAtPos", "classTool.html#a84fe578d2dba1e2df807a061daf51eb0", null ],
+    [ "DoGetBestSize", "classTool.html#a5537b603e7546999a5804a087c4bfcdf", null ],
+    [ "DrawContent", "classTool.html#ab50bd9d76c6717c4f42c74f55287003f", null ],
+    [ "GetClickObjects", "classTool.html#a3739a643b08d938a83913c57e09e724f", null ],
+    [ "GetNearestClickObject", "classTool.html#ae9f8e998244640af5d86eeca9eb4848a", null ],
+    [ "GetNearestObject", "classTool.html#adf3dc44fa902f2f04d3d28b581d35a23", null ],
+    [ "OnMouseDown", "classTool.html#a094f65f928387490029420634c3592fb", null ],
+    [ "OnMouseEnter", "classTool.html#acee6c316eb086fc2d20583035f390036", null ],
+    [ "OnMouseLeave", "classTool.html#a3e90c0114ff20b98e16097734e20fde7", null ],
+    [ "OnMouseMove", "classTool.html#a5df466ef3c51c81f7c5cfecddfb5007f", null ],
+    [ "OnMouseUp", "classTool.html#a3933568be814fe73ba35e79cd4860f6b", null ],
+    [ "OnPaint", "classTool.html#a629406a41c0bcdd669c11e3c209992e9", null ],
+    [ "ReloadObjects", "classTool.html#a7befda2032bf954dba36e1ec1bce2759", null ],
+    [ "ResetState", "classTool.html#a78b921109a3c923fa6a9d0fe021b5079", null ],
+    [ "SortObjects", "classTool.html#a588c3c117bf7cbf74fda555b3e5b55fb", null ],
+    [ "ToolBind", "classTool.html#a6f0ed4e13e4b75121ce149e2e3fb97ec", null ],
+    [ "currentReferencePoint", "classTool.html#a286291fb2ccbc861f52e0985f668f124", null ],
+    [ "drawingCanvas", "classTool.html#ab721e14c5a4a201fb1e6f4990f0dd801", null ],
+    [ "geoCurvesSorted", "classTool.html#a0dc9bd41f7db3e3b7e340f5709936b86", null ],
+    [ "geoPointsSorted", "classTool.html#afb488849e4cfd1461410c5ec0e4824af", null ],
+    [ "nullName", "classTool.html#a910733256e5491fd5fc462fe3ca91e20", null ],
+    [ "selected", "classTool.html#adbaf1faeb6aaa0ab6d4fce6561d6be83", null ]
+];
